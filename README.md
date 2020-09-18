@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Mia! 
 
 <!--
 **miacruz/miacruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My pronouns are [she/her](https://pronoun.is/she). I'm currently majoring in Computer Science at the University of San Francisco.
