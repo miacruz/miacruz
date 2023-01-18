@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My pronouns are [she/her](https://pronoun.is/she). I'm currently majoring in Computer Science at the University of San Francisco.
+My pronouns are [she/her](https://pronoun.is/she). I'm currently majoring in Design and minoring in Computer Science and Philippine Studies at the University of San Francisco.
